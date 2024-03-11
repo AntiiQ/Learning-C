@@ -1,0 +1,6 @@
+In case you forget ( I KNOW you will)
+
+1. Open CMD
+2. CD to right directory
+3. gcc -o "NAME" "Name of file.c"
+4. get that exe, and run it in the terminal

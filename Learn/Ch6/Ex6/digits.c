@@ -1,0 +1,11 @@
+/*Counts the digits of a number using a for loop*/
+
+#include <stdio.h>
+
+int main(void)
+{
+    for(int i = 9384; i > 0; i /= 10)
+        printf("%d ", i);
+
+    return 0;
+}

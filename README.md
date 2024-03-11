@@ -1,2 +1,2 @@
 # C-Learning
- Learning C and This is ome proof of it
+ Learning C and This is some proof of it
