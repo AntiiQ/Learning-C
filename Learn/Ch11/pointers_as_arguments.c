@@ -21,3 +21,9 @@ int main(void)
 
     return 0;
 }
+
+// if you do not want to change the data that the pointer points to you can use the cosnt keyword to specify
+
+// int f(const int *p);
+
+// this might be more efficent with extremly large values but, like, why?

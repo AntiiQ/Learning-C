@@ -17,6 +17,6 @@ int main(void)
     // you can combine the declarations of all of these, as long as the thing the pointer points to is declared first
 
     char d, *x = &b;
-    
+
 
 }
