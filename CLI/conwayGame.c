@@ -6,7 +6,7 @@
 #include <windows.h>    // for sleep
 #include <time.h>       // for seed
 
-#define SIZE 340
+#define SIZE 25
 #define LIVE '*'
 #define DEAD ' '
 #define DELAY 100
