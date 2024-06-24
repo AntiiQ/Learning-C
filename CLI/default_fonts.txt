@@ -1,0 +1,4 @@
+The default fonts for VScode
+I plan to mess with it a bit
+
+Consolas, 'Courier New', monospace

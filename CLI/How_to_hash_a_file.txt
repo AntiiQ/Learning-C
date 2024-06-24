@@ -1,0 +1,6 @@
+enough said
+
+certutil -hashfile  <path> <filename> <hashing algortihm>
+
+
+COMPARE IT TO THE RIGHT HASH YOU MORON

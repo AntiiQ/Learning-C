@@ -1,0 +1,23 @@
+
+
+The order 4 consists of the following information 
+
+ The carpet colour (red). 
+
+ The amount of carpet ordered in square meters is (4) 
+
+ The price is £400
+
+
+______________________________________________
+
+The order 6 consists of the following information 
+
+ The carpet colour (red). 
+
+ The amount of carpet ordered in square meters is (40) 
+
+ The price is £4000
+
+
+______________________________________________

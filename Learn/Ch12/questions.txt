@@ -1,0 +1,22 @@
+pointer arithmetic is NOT better than subscripting, not at all
+it was at one point, like 40 years ago but not anymore
+
+its all situational so like use whatever seems easier at the time
+and be able to read code that has both
+
+a[i] and i[a] are equivalent because fuck you
+
+in parameter declarations *a and a[] are equivalent in a parameter declarations
+as bith ahave the same type and suggest to the compiler that a is likely to be changed
+both methods work and are used, but some say *a is more clear, or more ambiguos?
+
+
+the name of an array is not actually a pointer, it can just act as one if needed
+for exaple sizeof(a) would return the total number of bytes in the attay (size of element * num of element)
+sizeof(p) would be the number of bytes required to store a pointer value
+
+the addres that a and a[0] point to may be the same but the both have diffrent types
+a is a pointer to an array
+a[0] is a pointer to an int which can be casted to an int
+
+you cant add pointer together just subtract them
