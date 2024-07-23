@@ -25,7 +25,7 @@ int main(void)
     // printing is fun
     printf("height is:  %d\n", height); // %d is a place holder for where the int varaible with be
     printf("Pi: %f\n", pi); // %f is a place holder for floats, however it automaticlly goes for 6 d.p
-    printf("value: %d\n", value);
+    printf("value: %d\n", value); r
 
     printf("pi to 10 dp: %.10f\n", pi); // to 'p' dp '%.pf'
     printf("pi to 0 dp: %10.10f\n", pi); // to 0 dp '%0.0f'
